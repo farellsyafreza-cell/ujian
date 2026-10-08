@@ -1,0 +1,7 @@
+.jalankan/
+__pycache__/
+*.pyc
+.vscode/
+.env
+*.iso
+*.exe
